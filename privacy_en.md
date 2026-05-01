@@ -4,7 +4,7 @@ Last updated: May 1, 2026
 
 This Privacy Policy describes how your information is collected, used, and disclosed when you use the application (“App”).
 
-## 1. Information We Collect
+## 1. Information We Collect 
 
 We may collect the following types of information:
 
