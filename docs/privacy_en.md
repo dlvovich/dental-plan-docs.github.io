@@ -104,7 +104,7 @@ We may share data with:
 
 ## 6. Data Retention
 
-We retain data only as long as necessary for the purposes described in this policy.
+We do not store your personal data on our own servers. The App operates as a standalone application; all data is stored locally on your device or processed by third-party services listed in Section 2 (Firebase, AppMetrica, Apphud) according to their own retention policies.
 
 ---
 
@@ -134,7 +134,7 @@ The App is not intended for children under 13 (or applicable age in your jurisdi
 
 ## 10. Changes
 
-We may update this Privacy Policy from time to time.
+We may update this Privacy Policy from time to time. The date of the latest revision is always indicated at the top of this page.
 
 ---
 
