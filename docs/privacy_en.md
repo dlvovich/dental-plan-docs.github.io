@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy (eng)
+title: Privacy Policy
 ---
 
 **Privacy Policy**
